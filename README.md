@@ -95,7 +95,21 @@ Ideal for: Identifying music from streaming services, media players, or other ap
 +----------------------                   
 Description: Processes audio files from your test_file directory to identify the music they contain.                                 
 Ideal for: Tags unknown or unorganized music files (like album_cover, MetaData, Synced Lyrics) to **unknown_file.audio_format** in your collection.       
-------------------------------------------------------------------------------------------->                                    
+------------------------------------------------------------------------------------------->      
+
+## Working(Demo)
+- `File Identification` : [This is Heaven - Nick Jonas](https://music.apple.com/sk/album/this-is-heaven/1554879162?i=1554879280)              
+
+![File Identification](https://raw.githubusercontent.com/EurydiceReverie/EurydiceDiscern/main/assets/File_Audio_Recognition_guide.mp4)            
+
+- `Internal Audio Capture` : [Houdini - Dua Lipa](https://music.apple.com/sk/album/houdini/1714502820?i=1714502827)
+
+![Internal Audio Capture](https://raw.githubusercontent.com/EurydiceReverie/EurydiceDiscern/main/assets/Internal_audio_Recognition_guide.mp4)
+
+- `Microphone Capture` : [Silver Peru - Blue Panama](https://www.youtube.com/watch?v=cpH-jqzpOpQ)
+
+![Microphone Capture](https://raw.githubusercontent.com/EurydiceReverie/EurydiceDiscern/main/assets/Mic_audio_Recognition_guide.mp4)
+
 
 ## Contact 💬
 Karthik K (Project developed) - [@EurydiceReverie][contact via telegram](https://t.me/SchadenfreudeKK)
